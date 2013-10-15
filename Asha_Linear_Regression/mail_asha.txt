@@ -1,0 +1,12 @@
+Hi Asha :)
+
+When I ran your code, I got an error on line 21 ( p = 1 1e^10-5 ). 
+I'm not sure what that line was for and have ignored it for the moment. 
+
+Using whatever I could decipher from your code ( I'm a little rusty with statistics :-P ), 
+I was able to write some code. Hopefully it's of some use to you :-P
+
+
+regards,
+
+Shane Lobo
